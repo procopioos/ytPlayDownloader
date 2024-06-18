@@ -1,5 +1,5 @@
 # ytPlayDownloader
-## Fork of [this project](https://github.com/preethamb97/Youtube-Playlist-downloader-using-python)
+Fork of [this project](https://github.com/preethamb97/Youtube-Playlist-downloader-using-python)
 
 # Added functionalities
 - Custom destination folder;
